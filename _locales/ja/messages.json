@@ -1,0 +1,19 @@
+{
+  "extensionName": { "message": "Instagram画像をコピー" },
+  "extensionDescription": { "message": "投稿のアクション欄またはコンテキストメニューからInstagramの写真をコピーします。" },
+  "actionTitle": { "message": "表示中のInstagram写真をコピー" },
+  "copyImage": { "message": "画像をコピー" },
+  "copyLink": { "message": "リンクをコピー" },
+  "imageCopied": { "message": "画像をコピーしました" },
+  "imageNotFound": { "message": "この投稿に写真が見つかりません。" },
+  "serviceWorkerNoImageData": { "message": "画像データを受信できませんでした。" },
+  "imageProcessingError": { "message": "写真を処理できませんでした。" },
+  "imageConversionError": { "message": "写真をPNGに変換できませんでした。" },
+  "copyFailed": { "message": "写真をコピーできませんでした。" },
+  "imageLoadFailed": { "message": "写真を読み込めませんでした。" },
+  "invalidImage": { "message": "選択したアドレスから画像を取得できませんでした。" },
+  "moreOptionsLabels": { "message": "その他のオプション|オプション" },
+  "shareButtonLabels": { "message": "シェア|送信" },
+  "saveButtonLabels": { "message": "保存" },
+  "copyLinkLabels": { "message": "リンクをコピー" }
+}

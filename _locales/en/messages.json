@@ -1,0 +1,19 @@
+{
+  "extensionName": { "message": "Copy Instagram Image" },
+  "extensionDescription": { "message": "Copy Instagram photos from the post action row or context menu." },
+  "actionTitle": { "message": "Copy the displayed Instagram photo" },
+  "copyImage": { "message": "Copy image" },
+  "copyLink": { "message": "Copy link" },
+  "imageCopied": { "message": "Image copied" },
+  "imageNotFound": { "message": "Could not find a photo in this post." },
+  "serviceWorkerNoImageData": { "message": "The image data was not returned." },
+  "imageProcessingError": { "message": "Could not process the photo." },
+  "imageConversionError": { "message": "Could not convert the photo to PNG." },
+  "copyFailed": { "message": "Could not copy the photo." },
+  "imageLoadFailed": { "message": "Could not load the photo." },
+  "invalidImage": { "message": "The selected address did not return an image." },
+  "moreOptionsLabels": { "message": "more options|options" },
+  "shareButtonLabels": { "message": "share|send" },
+  "saveButtonLabels": { "message": "save" },
+  "copyLinkLabels": { "message": "copy link" }
+}

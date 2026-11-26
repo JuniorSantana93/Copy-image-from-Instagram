@@ -1,0 +1,19 @@
+{
+  "extensionName": { "message": "复制 Instagram 图片" },
+  "extensionDescription": { "message": "通过帖子操作栏或上下文菜单复制 Instagram 照片。" },
+  "actionTitle": { "message": "复制当前显示的 Instagram 照片" },
+  "copyImage": { "message": "复制图片" },
+  "copyLink": { "message": "复制链接" },
+  "imageCopied": { "message": "图片已复制" },
+  "imageNotFound": { "message": "在此帖子中找不到照片。" },
+  "serviceWorkerNoImageData": { "message": "未收到图片数据。" },
+  "imageProcessingError": { "message": "无法处理照片。" },
+  "imageConversionError": { "message": "无法将照片转换为 PNG。" },
+  "copyFailed": { "message": "无法复制照片。" },
+  "imageLoadFailed": { "message": "无法加载照片。" },
+  "invalidImage": { "message": "所选地址未返回图片。" },
+  "moreOptionsLabels": { "message": "更多选项|选项" },
+  "shareButtonLabels": { "message": "分享|发送" },
+  "saveButtonLabels": { "message": "保存" },
+  "copyLinkLabels": { "message": "复制链接" }
+}
